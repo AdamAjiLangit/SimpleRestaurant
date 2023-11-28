@@ -11,3 +11,17 @@ C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.csproj.CopyComplete
 C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.exe
 C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.pdb
 C:\Users\root17\Source\Repos\POS\POS\obj\Debug\POS.UserControl2.resources
+C:\Users\Acer\Source\Repos\Restaurant_\POS\bin\Debug\POS.exe.config
+C:\Users\Acer\Source\Repos\Restaurant_\POS\bin\Debug\POS.exe
+C:\Users\Acer\Source\Repos\Restaurant_\POS\bin\Debug\POS.pdb
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.csproj.AssemblyReference.cache
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.Form1.resources
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.UserControl1.resources
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.UserControl2.resources
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.exe
+C:\Users\Acer\Source\Repos\Restaurant_\POS\obj\Debug\POS.pdb
